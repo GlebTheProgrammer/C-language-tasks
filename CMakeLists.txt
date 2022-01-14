@@ -4,4 +4,4 @@ project(exam2 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(exam2
-        Task12.c)
+        Task17.c)
